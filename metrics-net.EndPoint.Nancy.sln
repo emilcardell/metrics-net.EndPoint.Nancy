@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metrics-net.EndPoint.Nancy", "Source\metrics-net.EndPoints.Nancy\metrics-net.EndPoint.Nancy.csproj", "{235AA8D1-11DB-410D-A570-50A70EB6D744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metrics-net.EndPoint.Nancy.Demo", "Source\metrics-net.EndPoint.Nancy.Demo\metrics-net.EndPoint.Nancy.Demo.csproj", "{E1826B67-989E-4628-B7B6-D320076005A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{235AA8D1-11DB-410D-A570-50A70EB6D744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235AA8D1-11DB-410D-A570-50A70EB6D744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235AA8D1-11DB-410D-A570-50A70EB6D744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235AA8D1-11DB-410D-A570-50A70EB6D744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1826B67-989E-4628-B7B6-D320076005A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1826B67-989E-4628-B7B6-D320076005A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1826B67-989E-4628-B7B6-D320076005A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1826B67-989E-4628-B7B6-D320076005A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
